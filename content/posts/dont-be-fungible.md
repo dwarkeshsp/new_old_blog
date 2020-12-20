@@ -1,7 +1,7 @@
 +++
-title = "Draft: Don't be Fungible"
-date = "2020-12-01"
-description = "You split your probability of success with those you are fungible with, and this turns promising paths of success into improbable ones as more people follow them"
+title = "Draft: Don't be fungible"
+date = "2020-12-19"
+description = "You split your probability of success with those you are fungible with, and this turns probable paths of success into improbable ones as more people follow them"
 tags = ["advice", "probability"]
 draft = "false"
 
@@ -9,7 +9,7 @@ draft = "false"
 
 In my last post, I talked about how the lack of large scale strategic terrorism in our society tells us that people's considerations of the methods by which they can achieve their goals are severely constrained by how other people achieve those same goals. In this essay, I will explain why this memetic faculty leads us to chase the lowest probability paths to success.
 
-**The basic insight is that you split your probability of success with those you are fungible with, and this turns promising paths of success into improbable ones as more people follow them**.
+**The basic insight is that you split your probability of success with those you are fungible with, and this turns probable paths of success into improbable ones as more people follow them**.
 
 In cases where success is non-rivalrous, where someone's else achievement does not diminish your likelihood of getting that same achievement, this principle does not apply. But in a world of limited resources and unlimited wants, competition is usually the name of the game.
 

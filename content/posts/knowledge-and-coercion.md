@@ -3,7 +3,7 @@ title = "Draft: Knowledge and Coercion"
 date = "2020-12-17"
 description = "Does the growth of knowledge suggest that we will have more or less coercion in the future?"
 tags = ["economics", "violence"]
-draft = "false"
+draft = "true"
 
 +++
 

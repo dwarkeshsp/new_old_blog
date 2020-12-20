@@ -1,7 +1,7 @@
 +++
 title = "On the mysterious lack of terrorism"
-date = "2020-12-19"
-description = "The only possible explanation I can come up with for the shocking lack of large scale strategic terrorism is that people's imaginations are severely constrained by the tactics people around them use"
+date = "2020-12-18"
+description = "The only possible explanation I can come up with for the shocking lack of large scale strategic terrorism is that people's imaginations are severely constrained by the tactics people around them use."
 tags = ["violence"]
 draft = "false"
 

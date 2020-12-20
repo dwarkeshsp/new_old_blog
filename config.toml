@@ -2,7 +2,6 @@ baseURL = "https://dwarkeshpatel.com/"
 languageCode = "en-us"
 title = "Dwarkesh Patel"
 theme="archie"
-#copyright = "© Athul"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -11,9 +10,9 @@ pygmentscodefencesguesssyntax = true
 paginate=3 # articles per page
 
 [params]
-	mode="auto" # color-mode → light,dark or auto
+	mode="light" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Host of [Lunar Society Podcast](https://www.youtube.com/c/DwarkeshPatel), cs @ UT"
+	subtitle = "Host of [Lunar Society Podcast](https://www.youtube.com/c/DwarkeshPatel)"
 
 # Social Tags
 

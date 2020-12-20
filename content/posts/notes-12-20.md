@@ -9,6 +9,10 @@ draft = "false"
 
 # Notes
 
+## 12/20/20
+
+- If writing for Substack becomes a viable business model, it's only a matter of time before investors become willing to seed young writers in order to reap a percentage of their blog revenues.
+
 ## 12/19/20
 
 - This blog would be worth regularly writing if every post would get on average 100 reads. I'm going to remember that if I surpass that number and feel unmotivated.
