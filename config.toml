@@ -1,0 +1,55 @@
+baseURL = "https://dwarkeshpatel.com/"
+languageCode = "en-us"
+title = "Dwarkesh Patel"
+theme="archie"
+#copyright = "© Athul"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=3 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Host of [Lunar Society Podcast](https://www.youtube.com/c/DwarkeshPatel), cs @ UT"
+
+# Social Tags
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/dwarkesh_sp/"
+
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:dwarkesh.sanjay.patel@gmail.com"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 3
+
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 4
+
+[[menu.main]]
+name = "Subscribe"
+url = "http://tinyletter.com/dwarkesh"
+weight = 3
